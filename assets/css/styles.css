@@ -1,0 +1,85 @@
+body {
+	background: #fafafa;
+}
+.logo{
+	font-weight: 300;
+	padding-left: 25px;
+}
+.links{
+	padding-right: 20px;
+}
+nav ul a{
+	font-weight: 300;
+	font-size: 1.2rem;
+}
+.thin-text{
+	font-weight: 300;
+	background: rgba(255, 23, 68,.5);
+	padding: 40px;
+	border-radius: 20px; 
+}
+
+.thin{
+	font-weight: 300;
+}
+
+.parallax-container {
+    height: 800px;
+}
+.container .row {
+    margin-left: -1rem;
+    margin-right: -.75rem;
+}
+
+.btn-large{
+	opacity: 0.7;
+	border-radius: 20px;
+}
+
+.round-border{
+	border-radius: 20px;
+}
+
+.shadow-card{
+	box-shadow: 0 19px 38px rgba(255,23,68,0.2), 0 15px 15px rgba(255, 23, 68,.3);
+}
+.card-logo{
+	color : rgba(255, 23, 68,.3);
+
+}
+.card-text{
+	color : black;
+}
+.card-color{
+	background: rgba(245, 245, 245,.6);
+}
+
+.foot{
+	margin-top: 700px;
+}
+.thin-text-foot{
+	font-weight: 300;
+	background: rgba(255, 23, 68,.5);
+	padding: 40px;
+	margin-top: 300px;
+	border-radius: 20px;
+	 
+}
+
+.social-logo{
+	color : rgba(255,255,255,1);
+}
+.parallax-container-2 {
+    height: 1000px;
+}
+.side-nav {
+	padding-top: 25%;
+	background: rgba(98, 0, 234,.2);
+}
+
+.side-nav li a {
+	margin-top: 1rem;
+	font-weight: 300;
+	color: rgba(255,255,255,0.8);
+	font-size: 1.5rem;
+}
